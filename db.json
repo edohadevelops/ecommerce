@@ -1,0 +1,181 @@
+{
+  "admins": [
+    {
+      "id": "1",
+      "firstname": "Amen",
+      "lastname": "Edoha",
+      "position": "Marketing Director",
+      "username": "superadmin1",
+      "password": "1234567890"
+    },
+    {
+      "id": "2",
+      "username": "superadmin2",
+      "password": "1234567890"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "edohauser",
+      "password": "0987654321"
+    },
+    {
+      "id": "7975",
+      "firstname": "amen",
+      "password": "123456",
+      "username": "amen33",
+      "emailAddress": "amen@gmail.com"
+    },
+    {
+      "id": "943d",
+      "firstname": "amen",
+      "password": "123456",
+      "username": "amentest",
+      "emailAddress": "amen2@gmail.com"
+    },
+    {
+      "id": "a91d",
+      "firstname": "david",
+      "password": "12345678",
+      "username": "test3",
+      "emailAddress": "david@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "10979",
+      "name": "Air-Force Concept Kicks",
+      "src": "/assets/BolaAir.jpg",
+      "quantity": 20,
+      "price": 150000
+    },
+    {
+      "id": "19139",
+      "name": "BOLAPSD Phone Sticker",
+      "src": "/assets/BolaSticker.jpg",
+      "quantity": 20,
+      "price": 75000
+    },
+    {
+      "id": "190841",
+      "name": "Black Plain BOLAPSD Top",
+      "src": "/assets/BolaPlain.jpg",
+      "quantity": 20,
+      "price": 40000
+    },
+    {
+      "id": "2421111",
+      "name": "OFF-WHITE BOLAPSD Top",
+      "src": "/assets/BolaOffWhite.jpg",
+      "quantity": 20,
+      "price": 230000
+    },
+    {
+      "id": "1342213",
+      "name": "BOLAPSD Forever Tee",
+      "src": "/assets/BolaForever.jpg",
+      "quantity": 20,
+      "price": 234000
+    },
+    {
+      "id": "1131231",
+      "name": "Rockstar Forever Tee",
+      "src": "/assets/RockstarTee.jpg",
+      "quantity": 20,
+      "price": 100000
+    },
+    {
+      "id": "1671",
+      "name": "BOLAPSD Gangster Fit",
+      "src": "/assets/Bgangstar.jpg",
+      "quantity": 20,
+      "price": 20000
+    },
+    {
+      "id": "12431",
+      "name": "BOLAPSD Black Tee Concept",
+      "src": "/assets/BolaBlackTee.jpg",
+      "quantity": 20,
+      "price": 45000
+    },
+    {
+      "id": "15341",
+      "name": "BOLAPSD OFF-WHITE Jersey",
+      "src": "/assets/BolaOffWhite.jpg",
+      "quantity": 20,
+      "price": 70000
+    },
+    {
+      "id": "2131",
+      "name": "NOCTA Black Tee",
+      "src": "/assets/BolaNocta.jpg",
+      "quantity": 20,
+      "price": 25000
+    },
+    {
+      "id": "13431",
+      "name": "Plain  BOLAPSD Tee",
+      "src": "/assets/BolaPlain.jpg",
+      "quantity": 20,
+      "price": 250000
+    },
+    {
+      "id": "4221",
+      "name": "Sticker Design",
+      "src": "/assets/BolaSticker.jpg",
+      "quantity": 20,
+      "price": 55000
+    },
+    {
+      "id": "116421",
+      "name": "Fela Kuti Tee Design",
+      "src": "/assets/FelaKuti.jpg",
+      "quantity": 20,
+      "price": 340000
+    },
+    {
+      "id": "0987",
+      "name": "OFF-WHItE Tote Bag",
+      "src": "/assets/offBag.jpg",
+      "quantity": 20,
+      "price": 60000
+    },
+    {
+      "id": "0876",
+      "name": "Life is Forever Tee",
+      "src": "/assets/LifeisForever.jpg",
+      "quantity": 20,
+      "price": 45000
+    },
+    {
+      "id": "1123431",
+      "name": "BOLAPSD Ravers Tee",
+      "src": "/assets/RaveTee.jpg",
+      "quantity": 20,
+      "price": 23000
+    },
+    {
+      "id": "5321131",
+      "name": "Live is Forever Pink Tee",
+      "src": "/assets/PinkForever.jpg",
+      "quantity": 20,
+      "price": 120000
+    },
+    {
+      "id": "185331",
+      "name": "RTW Jersey",
+      "src": "/assets/RTW.jpg",
+      "quantity": 20,
+      "price": 40000
+    },
+    {
+      "id": "2451",
+      "name": "BOLAPSD Trackies",
+      "src": "/assets/Trackies.jpg",
+      "quantity": 20,
+      "price": 30000
+    }
+
+  ]
+}
