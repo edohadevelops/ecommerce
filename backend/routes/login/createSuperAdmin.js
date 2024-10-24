@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const {SuperAdmin,validate} = require("../../models/admin");
-const bcrypt = require("bcrypt");
+const bcrypt = require("bcryptjs");
 
 router.post("/", async(req,res)=>{
     try{
