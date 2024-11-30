@@ -1,6 +1,7 @@
 import React,{useState,useEffect} from 'react'
 import {Box, Typography,Grid,Stack,Button} from '@mui/material';
 import Products from '../Components/Products';
+import HeroImg from '../assets/set3.png';
 import SearchIcon from '@mui/icons-material/Search';
 import useGlobalState from '../GlobalStates/useGlobalState';
 import UserModal from '../Components/Modals/userModals';
@@ -55,6 +56,7 @@ const HeroUser = () => {
 
   return (
     <Box sx={{}} marginTop="60px" paddingTop="50px" bgcolor="#eceeee" paddingX="30px">
+      <img style={{width: "100%",height: "auto",margin: "0 0 20px 0px"}} src={HeroImg} />
       <Typography variant="h5" align="center" mb="30px" color="#187070">Products ({products.length})</Typography>
       <Stack direction="row" justifyContent="space-between" sx={{paddingX: "10px",marginBottom: "30px"}}>
         <Stack sx={{width: "600px",gap: "10px",display: "flex",flexDirection: "row",flexWrap: "wrap",alignItems: "center"}}>
